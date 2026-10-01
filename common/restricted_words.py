@@ -1,0 +1,1 @@
+restricted_words = {'fuck', 'dick', 'tits', 'nigger', 'nigga', 'suck'}
